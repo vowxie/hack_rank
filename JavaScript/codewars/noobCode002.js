@@ -29,5 +29,6 @@ https://developer.mozilla.org/en-US/docs/Glossary/Primitive
 */
 //菜鸟题
 function greaterThanLessThan (a,b,c) {
-    return a<b<c
+    return a<b<c;
 }
+
